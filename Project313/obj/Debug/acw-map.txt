@@ -1,0 +1,4 @@
+Project313.MainActivity, Project313;md5ac518e27652c54e07669fa8b5711548e.MainActivity
+Project313.MainActivity, Project313, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac518e27652c54e07669fa8b5711548e.MainActivity
+Project313.MainActivity;md5ac518e27652c54e07669fa8b5711548e.MainActivity
+project313.MainActivity;md5ac518e27652c54e07669fa8b5711548e.MainActivity
